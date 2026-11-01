@@ -1,0 +1,5 @@
+order_id,customer_id,customer_name,customer_city,product_id,product_name,category,unit_price,quantity,order_date
+1001,501,Aarav Sharma,Pune,201,Wireless Mouse,Accessories,799.0,2,2026-06-01
+1002,502,Priya Patel,Mumbai,202,Mechanical Keyboard,Accessories,2499.0,1,2026-06-01
+1003,501,Aarav Sharma,Pune,203,HD Monitor,Electronics,11999.0,1,2026-06-02
+1004,503,Rohan Verma,Delhi,201,Wireless Mouse,Accessories,799.0,3,2026-06-03
